@@ -1,3 +1,10 @@
+#!/bin/bash
+#
+# https://github.com/DieNacht/autoremove-torrents-installation
+# Author: DieNacht
+#
+# Thanks to amefs and Aniverse
+
 unset LogRootPath LogTimes DebLocation SCLocation LOCKLocation OutputLOG \
       user
 
